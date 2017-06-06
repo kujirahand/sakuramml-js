@@ -6,5 +6,5 @@ MML(Music Macro Language) Compiler
 
 ## Related projects
 
-- https://github.com/kujirhand/sakuramml
-- https://github.com/kujirhand/sakuramml-c
+- https://github.com/kujirahand/sakuramml
+- https://github.com/kujirahand/sakuramml-c
