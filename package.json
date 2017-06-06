@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/kujirahand/sakuramml-js#readme",
   "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
     "mocha": "^3.4.2",
     "pegjs": "^0.10.0",
     "webpack": "^2.6.1"
